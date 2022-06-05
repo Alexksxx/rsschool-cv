@@ -10,25 +10,34 @@ I believe, this course will help me to become a good specialist and find new fri
 ## Skills
 * HTML5
 * CSS
-* Methodology BEM
+* BEM methodology
 * VS Code
 * Figma
 ## Sample code
-BEM code:
+By BEM methodology:
 ```<div class="who-we-are homework__who-we-are">
 				<div class="title-form who-we-are__title-form">
 					<h3 class="title-form__sud-title">Who we are</h3>
 					<h2 class="title-form__title">Nemo enim ipsam voluptatem quia voluptas in proident</h2>
 				</div>
-				<div class="who-we-are__text text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-					suscipit
-					laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis autem vel eum iure reprehenderit qui in ea
-					voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas
-					nulla pariatur.</div>
+				<div class="who-we-are__text text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.
+				</div>
 				<div class="who-we-are__image-body">
 					<picture>
 						<source srcset="img/who-we-are/image.webp" type="image/webp">
 						<img src="img/who-we-are/image.jpg" alt="Engine" class="image">
 					</picture>
 				</div>
-</div> ```
+</div>
+```
+## Educational works
+* [Learning position](https://alexksxx.github.io/part_of_doggie/)
+* [Learning animation](https://alexksxx.github.io/13_animated_car/)
+* [Learning FLEX](https://alexksxx.github.io/Les_15/)
+## Courses
+* Сourse on layout from "Freelancer for lifestyle" (in progress)
+## Languages
+* Russian - native
+* English - Pre-Intermediate (in progress)
+
+	*Also, I have a constant practice of English, because I live in Turkey now.
