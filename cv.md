@@ -15,19 +15,34 @@ I believe, this course will help me to become a good specialist and find new fri
 * Figma
 ## Sample code
 By BEM methodology:
-```<div class="who-we-are homework__who-we-are">
-				<div class="title-form who-we-are__title-form">
-					<h3 class="title-form__sud-title">Who we are</h3>
-					<h2 class="title-form__title">Nemo enim ipsam voluptatem quia voluptas in proident</h2>
-				</div>
-				<div class="who-we-are__text text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.
-				</div>
-				<div class="who-we-are__image-body">
-					<picture>
-						<source srcset="img/who-we-are/image.webp" type="image/webp">
-						<img src="img/who-we-are/image.jpg" alt="Engine" class="image">
-					</picture>
-				</div>
+
+```
+<div class="who-we-are homework__who-we-are">
+
+	<div class="title-form who-we-are__title-form">
+
+		<h3 class="title-form__sud-title">Who we are</h3>
+
+		<h2 class="title-form__title">Nemo enim ipsam voluptatem quia voluptas in proident</h2>
+
+	</div>
+
+	<div class="who-we-are__text text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.
+
+	</div>
+
+	<div class="who-we-are__image-body">
+
+		<picture>
+
+			<source srcset="img/who-we-are/image.webp" type="image/webp">
+
+			<img src="img/who-we-are/image.jpg" alt="Engine" class="image">
+
+		</picture>
+
+	</div>
+
 </div>
 ```
 ## Educational works
